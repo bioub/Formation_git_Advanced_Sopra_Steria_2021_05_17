@@ -2,6 +2,8 @@
 
 Formation Git Avancé pour Sopra Steria du 17/05/2021
 
+Memento des commandes vues pendant la formation :
+
 ## Branches
 
 * git branch
