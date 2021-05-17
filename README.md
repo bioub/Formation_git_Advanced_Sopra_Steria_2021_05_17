@@ -12,3 +12,9 @@ Memento des commandes vues pendant la formation :
 * git merge
 * git rebase
 * git cherry-pick
+
+## Branches distantes
+
+* git push
+* git fetch
+* git pull
