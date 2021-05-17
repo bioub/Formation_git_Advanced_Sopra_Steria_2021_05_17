@@ -18,3 +18,9 @@ Memento des commandes vues pendant la formation :
 * git push
 * git fetch
 * git pull
+
+## Worklflow
+
+* Centralized
+* Git flow
+* GitHub Flow
